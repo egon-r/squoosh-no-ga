@@ -22,6 +22,7 @@ async function main() {
 
 main();
 
+/*
 // Analytics
 {
   // Determine the current display mode.
@@ -44,3 +45,4 @@ main();
     document.head.appendChild(script);
   });
 }
+*/
